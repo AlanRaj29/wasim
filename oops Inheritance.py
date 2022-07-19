@@ -35,6 +35,7 @@
 ##s.parents()
     
 #Multilevel Inheritance:
+ #In Multilevel Inheritance the parent class has a child class and the child class has child class
 
 ##class Grandfather:
 ## 
@@ -63,7 +64,7 @@
 
 
 #Hierarchical Inheritance:
-
+ #When more than one derived classes are created from a single base this type of inheritance is called hierarchical inheritance.
 ##class parent:
 ##    def func1(name):
 ##        print("Father name :","wasim")
@@ -82,7 +83,7 @@
 ##h2.func3()
 
 #Hybride Inheritance
-
+ #
 class clg:
     def func1(me):
         print("clg fun")
